@@ -25,12 +25,4 @@
 
 [![Giffoni's github stats](https://github-readme-stats.vercel.app/api?username=ErickGiffoni&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/wenderson-p/github-readme-stats)
 
-<!--START_SECTION:waka-->
-```text
-TypeScript   13 hrs 16 mins  ████████████▒░░░░░░░░░░░░   48.82 % 
-JavaScript   12 hrs 14 mins  ███████████▒░░░░░░░░░░░░░   45.06 % 
-JSON         1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-```
-<!--END_SECTION:waka-->
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@04c8be20-f35c-4845-b371-0302957da5b0/921342d3-d825-42dc-bc06-cd85fa9fc6aa.png" /></a>
