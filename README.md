@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">My name is Erick Giffoni, and i'm a Software Engineer</h3>
 
-<p src="./img/lnkdn" align="center" class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="erick-giffoni"><a class="LI-simple-link" href='https://br.linkedin.com/in/erick-giffoni?trk=profile-badge'>Erick Giffoni</a></p>
+<p src="./img/lnkdn" align="center" class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="erick-giffoni"><a class="LI-simple-link" href='./img/lnkdn'>Erick Giffoni</a></p>
 
 - 🔭 I’m currently working on [Phovi](https://phovi.app/)
 
