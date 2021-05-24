@@ -23,6 +23,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ErickGiffoni&show_icons=true&locale=en&layout=compact" alt="erick-giffoni" /></p>
 
-[![Giffoni's github stats](https://github-readme-stats.vercel.app/api?username=ErickGiffoni&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/wenderson-p/github-readme-stats)
+![Giffoni's github stats](https://github-readme-stats.vercel.app/api?username=ErickGiffoni&show_icons=true&theme=tokyonight)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@04c8be20-f35c-4845-b371-0302957da5b0/921342d3-d825-42dc-bc06-cd85fa9fc6aa.png" /></a>
+<img src="https://wakatime.com/share/@04c8be20-f35c-4845-b371-0302957da5b0/c9cf80f4-0118-419a-b940-569c9e194115.svg"></img>
