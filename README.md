@@ -3,9 +3,9 @@
 
 <p src="./img/lnkdn" align="center" class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="erick-giffoni"><a class="LI-simple-link" href='https://linkedin.com/in/erick-giffoni'>Erick Giffoni</a></p>
 
-- 🔭 I’m currently working on [Phovi](https://phovi.app/)
+- 🔭 I’m currently working on [TROPA](https://tropairsoft.com/)
 
-- 🌱 Learning more about **React, React Native, Cyber Security, NodeJS, UX and UI**
+- 🌱 Learning more about **Cyber Security, NodeJS, NestJS, React and UI**
 
 - 👯 I’m looking to collaborate on **Awesome projects**
 
